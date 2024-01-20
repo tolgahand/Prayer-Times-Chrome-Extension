@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Vakitler App Eklentisi",
+  "version": "1.0",
+  "description": "Vakitler App Chrome Eklentisi",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "152": "icon-48.png",
+      "167": "icon-128.png",
+      "180": "icon-180.png"
+    }
+  }
